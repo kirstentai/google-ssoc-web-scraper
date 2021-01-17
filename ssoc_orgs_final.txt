@@ -1,0 +1,44 @@
+LabLua
+Catrobat
+The NetBSD Foundation
+strace
+Mozilla
+Performance Co-Pilot
+The Honeynet Project
+NumFOCUS
+LibreOffice
+ReactOS
+Sugar Labs
+Red Hen Lab
+ScummVM
+Python Software Foundation
+Blender Foundation
+MuseScore
+Wikimedia Foundation
+Django Software Foundation
+FFmpeg
+JBoss Community
+Fedora Project
+Drupal
+BRL-CAD
+SymPy
+National Resource for Network Biology (NRNB)
+QEMU
+The Linux Foundation
+OpenStreetMap
+RTEMS Project
+Gentoo Foundation
+XWiki
+Open Chemistry
+GNOME
+The Wine Project
+GNU Radio
+Free and Open Source Silicon Foundation
+Xapian Search Engine Library
+CCExtractor Development
+GNU Octave
+CloudCV
+Oppia Foundation
+Inkscape
+OpenMRS
+Git
